@@ -1,6 +1,6 @@
 ## Hi 👋, I am Kashvi Rita
 
--🔭 I’m currently working on MERN Developement
+-🔭 I’m currently working on MERN Developement /n
 -🌱 I’m currently learning AI
 -📫 How to reach me: kashvirita@gmail.com
 
